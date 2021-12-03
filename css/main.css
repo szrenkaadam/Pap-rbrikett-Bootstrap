@@ -1,3 +1,15 @@
 body {
     background-image: url(../images/hatterkep.png);
 }
+
+h1, h2 {
+    font-weight: normal;
+}
+
+.jumbotron {
+    background-color: lightgrey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: solid rgb(204, 204, 204);
+    border-top: lightgray;
+}
